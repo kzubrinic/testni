@@ -4,7 +4,7 @@
 N = int(input('Upiši broj članova niza: '))
 if N == 0:
     print('0')
-else if N == 1:
+elif N == 1:
   print('0 1')
 else:
     print('0 1', end=' ')
@@ -12,4 +12,4 @@ else:
     for i in range(0, N + 1):
         c = a + b
         a, b = b, c
-        printf(c, end = ' ')
+        print(c, end = ' ')
