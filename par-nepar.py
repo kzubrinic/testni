@@ -1,3 +1,4 @@
+# XXX
 # Program određuje je li uneseni broj paran ili neparan
 # Pronađite i ispravite sintaksne greške
 broj = input('Broj: ')
