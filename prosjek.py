@@ -4,7 +4,7 @@ br_stud = int(input('Broj studenata: '))
 
 suma = 0
 for i in range(1, br_stud+1):
-    ocj = input('Ocjena: ')
+    ocj = int(input('Ocjena: '))
     suma = suma + ocj
-printf('Prosjek ocjena: %f', suma/br_stud) 
+print('Prosjek ocjena: ', suma/br_stud) 
 
