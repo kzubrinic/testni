@@ -1,5 +1,7 @@
 # Testni
 Testni repozitorij za vježbanje verzioniranja programskog koda.
 
-Novi sadržaj
+Novi sadržaj.
 
+## Podnaslov
+Vježbanje Markdown komentara
