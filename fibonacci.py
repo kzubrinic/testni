@@ -1,5 +1,4 @@
 # Program koji računa Fibonaccijev niz
-# Pronađite i ispravite sintaksne greške
 
 N = int(input('Upiši broj članova niza: '))
 if N == 0:
