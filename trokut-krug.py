@@ -1,5 +1,4 @@
 # Program računa i ispisuje opseg i površinu trokuta ili kruga
-# Pronađite i ispravite sintaksne greške
 lik = input('Lik (T/K): ')
 str_pol = int(input('Stranica/polumjer: '))
               
