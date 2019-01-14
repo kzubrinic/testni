@@ -1,5 +1,4 @@
 ### Program računa ispisuje prosjek unesenih ocjena
-# Pronađite i ispravite sintaksne greške
 br_stud = int(input('Broj studenata: '))
 
 suma = 0
